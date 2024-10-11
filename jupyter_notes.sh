@@ -4,7 +4,7 @@ pip install jupyterlab
 
 #Once installed, launch JupyterLab with:
 jupyter lab
-
+ 
 
 ## Jupyter Notebook
 #Install the classic Jupyter Notebook with:
